@@ -17,7 +17,8 @@ Problemas
 | Código | Nome | Dificuldade | Vídeo |
 | ------------------ | ---------------- | ----------- | ------------------ |
 | 2045 | [Second-minimum-time-to-reach-destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/) | Difícil | [clique aqui](https://youtu.be/VBLhMYGftAo) |
-
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/) | Média | [clique aqui](https://youtu.be/4smCP4B8_Ug) |
+| 2858 | [Minimum edge reversals so every node is reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/) | Difícil | [clique aqui](https://youtu.be/CGLSse-GHiE) |
 
 
 ## Screenshots
