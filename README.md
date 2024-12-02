@@ -17,6 +17,10 @@ Este repositório tem como objetivo apresentar as soluções das questões selec
 Minimum Edge Reversals So Every Node Is Reachable
 <div align="center"><img src="/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable.jpeg" height=auto width=auto></div>
 
+Path With Minimum Effort
+<div align="center"><img src="/1631. Path With Minimum Effort/1631.Path-With-Minimum-Effort.jpeg" height=auto width=auto></div>
+
+
 ## Instalação 
 **Linguagem**: C++<br>
 
