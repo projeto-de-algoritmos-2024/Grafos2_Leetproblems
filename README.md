@@ -18,7 +18,7 @@ Minimum Edge Reversals So Every Node Is Reachable
 <div align="center"><img src="/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable.jpeg" height=auto width=auto></div>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: C++<br>
 
 
 
