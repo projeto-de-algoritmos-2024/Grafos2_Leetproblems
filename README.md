@@ -13,6 +13,13 @@
 ## Sobre 
 Este repositório tem como objetivo apresentar as soluções das questões selecionadas, com o intuito de demonstrar os conhecimentos adquiridos durante as aulas. 
 
+Problemas
+| Código | Nome | Dificuldade | Vídeo |
+| ------------------ | ---------------- | ----------- | ------------------ |
+| 2045 | [Second-minimum-time-to-reach-destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/) | Difícil | [clique aqui](https://youtu.be/VBLhMYGftAo) |
+
+
+
 ## Screenshots
 Minimum Edge Reversals So Every Node Is Reachable
 <div align="center"><img src="/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable.jpeg" height=auto width=auto></div>
@@ -20,10 +27,19 @@ Minimum Edge Reversals So Every Node Is Reachable
 Path With Minimum Effort
 <div align="center"><img src="/1631. Path With Minimum Effort/1631.Path-With-Minimum-Effort.jpeg" height=auto width=auto></div>
 
+Second-Minimum-Time-to-Reach-Destination
+<div align="center"><img src="/2045.second-minimum-time-to-reach-destination/2045.png" height=auto width=auto></div>
+
 
 ## Instalação 
 **Linguagem**: C++<br>
 
+
+## Uso 
+# 1 - Clone o repositório
+```bash
+git clone https://github.com/projeto-de-algoritmos-2024/Grafos2_Leetproblems.git
+```
 
 
 
