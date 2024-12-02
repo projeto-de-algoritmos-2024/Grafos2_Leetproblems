@@ -14,7 +14,8 @@
 Este repositório tem como objetivo apresentar as soluções das questões selecionadas, com o intuito de demonstrar os conhecimentos adquiridos durante as aulas. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Minimum Edge Reversals So Every Node Is Reachable
+<div align="center"><img src="/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable/2858.Minimum-Edge-Reversals-So-Every-Node-Is-Reachable.jpeg" height=auto width=auto></div>
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
